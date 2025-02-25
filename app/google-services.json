@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416270523651",
+    "project_id": "avmassenger-49c59",
+    "storage_bucket": "avmassenger-49c59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416270523651:android:15c1ebb3f55ed9cddf5d36",
+        "android_client_info": {
+          "package_name": "com.example.avmassenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7PH5Tompi63_IPOwF_DCGRph2wfkwRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
